@@ -1,4 +1,4 @@
-Heartrate (bpm),Error_rate,CPS,WPM,Text Length,ClassLabel
+Heartrate (bpm),Error_rate,CPS,WPM,Text Length,Class Label
 99,10,2.791654423,33.49985307,20,0
 99,6.896551724,2.921535893,35.05843072,29,0
 99,3.03030303,3.789224393,45.47069272,33,0
